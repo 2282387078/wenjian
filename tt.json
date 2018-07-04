@@ -1,0 +1,41 @@
+﻿﻿[
+	{
+		"id":"1",
+		"title":"1 . 我们可以在下列哪个 HTML 元素中放置 Javascript 代码？",
+		"answers":["<script>","<javascript>","<js>","<scripting>"],
+		"correct":"0"
+		
+	},
+	{
+		"id":"2",
+		"title":"2 . 写 Hello World 的正确 Javascript 语法是？",
+		"answers":["<script>","<javascript>","<js>","document.write(‘Hello World’)"],
+		"correct":"3"
+		
+	},
+	{
+		"id":"3",
+		"title":"3 . 插入 Javacript 的正确位置是？",
+		"answers":["<script>","<javascript>","<body> 部分和 <head> 部分均可","<scripting>"],
+		"correct":"2"
+		
+	},
+	{
+		"id":"4",
+		"title":"4 . 插入 Javacript 的正确位置是？",
+		"answers":["<script>","<javascript>","<body> 部分和 <head> 部分均可","<scripting>"],
+		"correct":"2"
+		
+	},
+	{
+		"id":"5",
+		"title":"5 . 插入 Javacript 的正确位置是？",
+		"answers":["<script>","<javascript>","<body> 部分和 <head> 部分均可","<scripting>"],
+		"correct":"2"
+		
+	}
+	
+	
+
+
+]
